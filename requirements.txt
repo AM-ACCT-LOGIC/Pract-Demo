@@ -1,7 +1,7 @@
-# streamlit
-# langchain-openai
-# pandas
-# numpy
-# matplotlib
-# seaborn
-# sqlparse
+streamlit
+langchain-openai
+pandas
+numpy
+matplotlib
+seaborn
+sqlparse
